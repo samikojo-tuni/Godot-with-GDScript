@@ -82,12 +82,12 @@ Let's verify that everything is working correctly by creating a simple "Hello, W
 
 ## Add a Script
 
-1. With Node2D selected, click the **Attach Script** button (scroll icon) in the toolbar
+1. With Node2D selected, click the **Attach Script** button (scroll icon) in the toolbar  
 ![Add new script](Assets/new-script.png)
-4. Keep the default settings and click **Create**
-5. Open the script editor by clicking **Script** button
+2. Keep the default settings and click **Create**
+3. Open the script editor by clicking **Script** button  
 ![Open script edit mode](Assets/script-view.png)
-7. In the script editor, replace the contents with:
+4. In the script editor, replace the contents with:
 
 ```gdscript
 extends Node2D
